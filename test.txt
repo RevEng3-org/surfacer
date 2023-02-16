@@ -1,0 +1,10 @@
+[AlienVault]      oregon-cl.logs.vonage.com
+[AlienVault]      aused16.vbcforteams.vonage.com
+[AlienVault]      aeuwa11.vbcforteams.vonage.com
+[DNS]             exchange.vonage.com
+[AlienVault]      refer.vonage.com
+[DNS]             _autodiscover._tcp.vonage.com
+[HackerTarget]    studio-api-us.ai.vonage.com
+[Digitorus]       apps.gunify-dev.vonage.com
+[Baidu]           developer.uc.vonage.com
+[HackerTarget]    portal.ece.vonage.com
